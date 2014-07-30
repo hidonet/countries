@@ -23,7 +23,7 @@
 			"it": "Afghanistan",
 			"ja": "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3",
 			"nl": "Afghanistan",
-			"hr": "Afganistan",
+ 			"tr": "Afganistan",
 			"ru": "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"
 		},
 		"latlng": [33, 65],
@@ -55,6 +55,7 @@
 			"ja": "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6",
 			"nl": "\u00c5landeilanden",
 			"hr": "\u00c5landski otoci",
+ 			"tr": "Aland Adaları",
 			"ru": "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [60.116667, 19.9],
@@ -87,6 +88,7 @@
 			"ja": "\u30a2\u30eb\u30d0\u30cb\u30a2",
 			"nl": "Albani\u00eb",
 			"hr": "Albanija",
+ 			"tr": "Arnavutluk",
 			"ru": "\u0410\u043b\u0431\u0430\u043d\u0438\u044f"
 		},
 		"latlng": [41, 20],
@@ -119,6 +121,7 @@
 			"ja": "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2",
 			"nl": "Algerije",
 			"hr": "Al\u017eir",
+ 			"tr": "Cezayir",
 			"ru": "\u0410\u043b\u0436\u0438\u0440"
 		},
 		"latlng": [28, 3],
@@ -150,6 +153,7 @@
 			"ja": "\u30a2\u30e1\u30ea\u30ab\u9818\u30b5\u30e2\u30a2",
 			"nl": "Amerikaans Samoa",
 			"hr": "Ameri\u010dka Samoa",
+ 			"tr": "Amerikan Samoası",
 			"ru": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435 \u0421\u0430\u043c\u043e\u0430"
 		},
 		"latlng": [-14.33333333, -170],
@@ -182,6 +186,7 @@
 			"ja": "\u30a2\u30f3\u30c9\u30e9",
 			"nl": "Andorra",
 			"hr": "Andora",
+ 			"tr": "Andorra",
 			"ru": "\u0410\u043d\u0434\u043e\u0440\u0440\u0430"
 		},
 		"latlng": [42.5, 1.5],
@@ -214,6 +219,7 @@
 			"ja": "\u30a2\u30f3\u30b4\u30e9",
 			"nl": "Angola",
 			"hr": "Angola",
+ 			"tr": "Angola",
 			"ru": "\u0410\u043d\u0433\u043e\u043b\u0430"
 		},
 		"latlng": [-12.5, 18.5],
@@ -245,6 +251,7 @@
 			"ja": "\u30a2\u30f3\u30ae\u30e9",
 			"nl": "Anguilla",
 			"hr": "Angvila",
+ 			"tr": "Anguilla",
 			"ru": "\u0410\u043d\u0433\u0438\u043b\u044c\u044f"
 		},
 		"latlng": [18.25, -63.16666666],
@@ -277,6 +284,7 @@
 			"ja": "\u5357\u6975",
 			"nl": "Antarctica",
 			"hr": "Antarktika",
+ 			"tr": "Antarktika",
 			"ru": "\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0434\u0430"
 		},
 		"latlng": [-90, 0],
@@ -309,6 +317,7 @@
 			"ja": "\u30a2\u30f3\u30c6\u30a3\u30b0\u30a2\u30fb\u30d0\u30fc\u30d6\u30fc\u30c0",
 			"nl": "Antigua en Barbuda",
 			"hr": "Antigva i Barbuda",
+ 			"tr": "Antigua ve Barbuda",
 			"ru": "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
 		},
 		"latlng": [17.05, -61.8],
@@ -341,6 +350,7 @@
 			"ja": "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3",
 			"nl": "Argentini\u00eb",
 			"hr": "Argentina",
+ 			"tr": "Arjantin",
 			"ru": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430"
 		},
 		"latlng": [-34, -64],
@@ -373,6 +383,7 @@
 			"ja": "\u30a2\u30eb\u30e1\u30cb\u30a2",
 			"nl": "Armeni\u00eb",
 			"hr": "Armenija",
+ 			"tr": "Ermenistan",
 			"ru": "\u0410\u0440\u043c\u0435\u043d\u0438\u044f"
 		},
 		"latlng": [40, 45],
@@ -404,6 +415,7 @@
 			"ja": "\u30a2\u30eb\u30d0",
 			"nl": "Aruba",
 			"hr": "Aruba",
+ 			"tr": "Aruba",
 			"ru": "\u0410\u0440\u0443\u0431\u0430"
 		},
 		"latlng": [12.5, -69.96666666],
@@ -436,6 +448,7 @@
 			"ja": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2",
 			"nl": "Australi\u00eb",
 			"hr": "Australija",
+ 			"tr": "Australya",
 			"ru": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f"
 		},
 		"latlng": [-27, 133],
@@ -468,6 +481,7 @@
 			"ja": "\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2",
 			"nl": "Oostenrijk",
 			"hr": "Austrija",
+ 			"tr": "Avusturya",
 			"ru": "\u0410\u0432\u0441\u0442\u0440\u0438\u044f"
 		},
 		"latlng": [47.33333333, 13.33333333],
@@ -500,6 +514,7 @@
 			"ja": "\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3",
 			"nl": "Azerbeidzjan",
 			"hr": "Azerbajd\u017ean",
+ 			"tr": "Azerbaycan",
 			"ru": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d"
 		},
 		"latlng": [40.5, 47.5],
@@ -532,6 +547,7 @@
 			"ja": "\u30d0\u30cf\u30de",
 			"nl": "Bahama\u2019s",
 			"hr": "Bahami",
+ 			"tr": "Bahama Adaları",
 			"ru": "\u0411\u0430\u0433\u0430\u043c\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [24.25, -76],
@@ -564,6 +580,7 @@
 			"ja": "\u30d0\u30fc\u30ec\u30fc\u30f3",
 			"nl": "Bahrein",
 			"hr": "Bahrein",
+ 			"tr": "Bahreyn",
 			"ru": "\u0411\u0430\u0445\u0440\u0435\u0439\u043d"
 		},
 		"latlng": [26, 50.55],
@@ -596,6 +613,7 @@
 			"ja": "\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5",
 			"nl": "Bangladesh",
 			"hr": "Banglade\u0161",
+ 			"tr": "Bangladeş",
 			"ru": "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448"
 		},
 		"latlng": [24, 90],
@@ -628,6 +646,7 @@
 			"ja": "\u30d0\u30eb\u30d0\u30c9\u30b9",
 			"nl": "Barbados",
 			"hr": "Barbados",
+ 			"tr": "Barbados",
 			"ru": "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
 		},
 		"latlng": [13.16666666, -59.53333333],
@@ -660,6 +679,7 @@
 			"ja": "\u30d9\u30e9\u30eb\u30fc\u30b7",
 			"nl": "Wit-Rusland",
 			"hr": "Bjelorusija",
+ 			"tr": "Belarus",
 			"ru": "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f"
 		},
 		"latlng": [53, 28],
@@ -692,6 +712,7 @@
 			"ja": "\u30d9\u30eb\u30ae\u30fc",
 			"nl": "Belgi\u00eb",
 			"hr": "Belgija",
+ 			"tr": "Belçika",
 			"ru": "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"
 		},
 		"latlng": [50.83333333, 4],
@@ -724,6 +745,7 @@
 			"ja": "\u30d9\u30ea\u30fc\u30ba",
 			"nl": "Belize",
 			"hr": "Belize",
+ 			"tr": "Belize",
 			"ru": "\u0411\u0435\u043b\u0438\u0437"
 		},
 		"latlng": [17.25, -88.75],
@@ -756,6 +778,7 @@
 			"ja": "\u30d9\u30ca\u30f3",
 			"nl": "Benin",
 			"hr": "Benin",
+ 			"tr": "Benin",
 			"ru": "\u0411\u0435\u043d\u0438\u043d"
 		},
 		"latlng": [9.5, 2.25],
@@ -788,6 +811,7 @@
 			"ja": "\u30d0\u30df\u30e5\u30fc\u30c0",
 			"nl": "Bermuda",
 			"hr": "Bermudi",
+ 			"tr": "Bermuda",
 			"ru": "\u0411\u0435\u0440\u043c\u0443\u0434\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [32.33333333, -64.75],
@@ -820,6 +844,7 @@
 			"ja": "\u30d6\u30fc\u30bf\u30f3",
 			"nl": "Bhutan",
 			"hr": "Butan",
+ 			"tr": "Bhutan",
 			"ru": "\u0411\u0443\u0442\u0430\u043d"
 		},
 		"latlng": [27.5, 90.5],
@@ -852,6 +877,7 @@
 			"ja": "\u30dc\u30ea\u30d3\u30a2\u591a\u6c11\u65cf\u56fd",
 			"nl": "Bolivia",
 			"hr": "Bolivija",
+ 			"tr": "Bolivya",
 			"ru": "\u0411\u043e\u043b\u0438\u0432\u0438\u044f"
 		},
 		"latlng": [-17, -65],
@@ -908,6 +934,7 @@
 			"ja": "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca",
 			"nl": "Bosni\u00eb en Herzegovina",
 			"hr": "Bosna i Hercegovina",
+ 			"tr": "Bosna Hersek",
 			"ru": "\u0411\u043e\u0441\u043d\u0438\u044f \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
 		},
 		"latlng": [44, 18],
@@ -939,6 +966,7 @@
 			"ja": "\u30dc\u30c4\u30ef\u30ca",
 			"nl": "Botswana",
 			"hr": "Bocvana",
+ 			"tr": "Botsvana",
 			"ru": "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
 		},
 		"latlng": [-22, 24],
@@ -970,6 +998,7 @@
 			"ja": "\u30d6\u30fc\u30d9\u5cf6",
 			"nl": "Bouveteiland",
 			"hr": "Otok Bouvet",
+ 			"tr": "Bouvet Adaları",
 			"ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0411\u0443\u0432\u0435"
 		},
 		"latlng": [-54.43333333, 3.4],
@@ -1002,6 +1031,7 @@
 			"ja": "\u30d6\u30e9\u30b8\u30eb",
 			"nl": "Brazili\u00eb",
 			"hr": "Brazil",
+ 			"tr": "Brezilya",
 			"ru": "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f"
 		},
 		"latlng": [-10, -55],
@@ -1034,6 +1064,7 @@
 			"ja": "\u30a4\u30ae\u30ea\u30b9\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df",
 			"nl": "Britse Gebieden in de Indische Oceaan",
 			"hr": "Britanski Indijskooceanski teritorij",
+ 			"tr": "Hint Okyanusu İngiliz Bölgesi",
 			"ru": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u0432 \u0418\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u043c \u043e\u043a\u0435\u0430\u043d\u0435"
 		},
 		"latlng": [-6, 71.5],
@@ -1065,6 +1096,7 @@
 			"ja": "\u30a4\u30ae\u30ea\u30b9\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6",
 			"nl": "Britse Maagdeneilanden",
 			"hr": "Britanski Djevi\u010danski Otoci",
+ 			"tr": "Virjin Adaları",
 			"ru": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0435 \u0412\u0438\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [18.431383, -64.62305],
@@ -1097,6 +1129,7 @@
 			"ja": "\u30d6\u30eb\u30cd\u30a4\u30fb\u30c0\u30eb\u30b5\u30e9\u30fc\u30e0",
 			"es": "Brunei",
 			"hr": "Brunej",
+ 			"tr": "Brunei Sultanlığı",
 			"ru": "\u0411\u0440\u0443\u043d\u0435\u0439"
 		},
 		"latlng": [4.5, 114.66666666],
@@ -1129,6 +1162,7 @@
 			"ja": "\u30d6\u30eb\u30ac\u30ea\u30a2",
 			"nl": "Bulgarije",
 			"hr": "Bugarska",
+ 			"tr": "Bulgaristan",
 			"ru": "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f"
 		},
 		"latlng": [43, 25],
@@ -1161,6 +1195,7 @@
 			"ja": "\u30d6\u30eb\u30ad\u30ca\u30d5\u30a1\u30bd",
 			"nl": "Burkina Faso",
 			"hr": "Burkina Faso",
+			"tr": "Burkina Faso",
 			"ru": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e"
 		},
 		"latlng": [13, -2],
@@ -1193,6 +1228,7 @@
 			"ja": "\u30d6\u30eb\u30f3\u30b8",
 			"nl": "Burundi",
 			"hr": "Burundi",
+			"tr": "Burundi",
 			"ru": "\u0411\u0443\u0440\u0443\u043d\u0434\u0438"
 		},
 		"latlng": [-3.5, 30],
@@ -1225,6 +1261,7 @@
 			"ja": "\u30ab\u30f3\u30dc\u30b8\u30a2",
 			"es": "Camboya",
 			"hr": "Kambod\u017ea",
+			"tr": "Kamboçya",
 			"ru": "\u041a\u0430\u043c\u0431\u043e\u0434\u0436\u0430"
 		},
 		"latlng": [13, 105],
@@ -1257,6 +1294,7 @@
 			"ja": "\u30ab\u30e1\u30eb\u30fc\u30f3",
 			"nl": "Kameroen",
 			"hr": "Kamerun",
+			"tr": "Kamerun",
 			"ru": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"
 		},
 		"latlng": [6, 12],
@@ -1289,6 +1327,7 @@
 			"ja": "\u30ab\u30ca\u30c0",
 			"nl": "Canada",
 			"hr": "Kanada",
+			"tr": "Kanada",
 			"ru": "\u041a\u0430\u043d\u0430\u0434\u0430"
 		},
 		"latlng": [60, -95],
@@ -1321,6 +1360,7 @@
 			"ja": "\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7",
 			"nl": "Kaapverdi\u00eb",
 			"hr": "Zelenortska Republika",
+			"tr": "Cape Verde",
 			"ru": "\u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435"
 		},
 		"latlng": [16, -24],
@@ -1353,6 +1393,7 @@
 			"ja": "\u30b1\u30a4\u30de\u30f3\u8af8\u5cf6",
 			"nl": "Caymaneilanden",
 			"hr": "Kajmanski otoci",
+			"hr": "Cayman Adaları",
 			"ru": "\u041a\u0430\u0439\u043c\u0430\u043d\u043e\u0432\u044b \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [19.5, -80.5],
@@ -1385,6 +1426,7 @@
 			"ja": "\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd",
 			"nl": "Centraal-Afrikaanse Republiek",
 			"hr": "Srednjoafri\u010dka Republika",
+			"tr": "Orta Afrika Cumhuriyeti",
 			"ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
 		},
 		"latlng": [7, 21],
@@ -1417,6 +1459,7 @@
 			"ja": "\u30c1\u30e3\u30c9",
 			"nl": "Tsjaad",
 			"hr": "\u010cad",
+			"tr": "Çad",
 			"ru": "\u0427\u0430\u0434"
 		},
 		"latlng": [15, 19],
@@ -1449,6 +1492,7 @@
 			"ja": "\u30c1\u30ea",
 			"nl": "Chili",
 			"hr": "\u010cile",
+			"tr": "Şili",
 			"ru": "\u0427\u0438\u043b\u0438"
 		},
 		"latlng": [-30, -71],
@@ -1481,6 +1525,7 @@
 			"ja": "\u4e2d\u56fd",
 			"nl": "China",
 			"hr": "Kina",
+			"tr": "Çin",
 			"ru": "\u041a\u0438\u0442\u0430\u0439"
 		},
 		"latlng": [35, 105],
@@ -1513,6 +1558,7 @@
 			"ja": "\u30af\u30ea\u30b9\u30de\u30b9\u5cf6",
 			"es": "Isla de Navidad",
 			"hr": "Bo\u017ei\u0107ni otok",
+			"tr": "Christmas Adaları",
 			"ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0430"
 		},
 		"latlng": [-10.5, 105.66666666],
@@ -1545,6 +1591,7 @@
 			"ja": "\u30b3\u30b3\u30b9\uff08\u30ad\u30fc\u30ea\u30f3\u30b0\uff09\u8af8\u5cf6",
 			"es": "Islas Cocos o Islas Keeling",
 			"hr": "Kokosovi Otoci",
+			"tr": "Cocos (Keeling) Adaları",
 			"ru": "\u041a\u043e\u043a\u043e\u0441\u043e\u0432\u044b\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [-12.5, 96.83333333],
@@ -1577,6 +1624,7 @@
 			"ja": "\u30b3\u30ed\u30f3\u30d3\u30a2",
 			"nl": "Colombia",
 			"hr": "Kolumbija",
+			"tr": "Kolombiya",
 			"ru": "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f"
 		},
 		"latlng": [4, -72],
@@ -1609,6 +1657,7 @@
 			"ja": "\u30b3\u30e2\u30ed",
 			"nl": "Comoren",
 			"hr": "Komori",
+			"tr": "Komor Adaları",
 			"ru": "\u041a\u043e\u043c\u043e\u0440\u044b"
 		},
 		"latlng": [-12.16666666, 44.25],
@@ -1641,6 +1690,7 @@
 			"ja": "\u30b3\u30f3\u30b4\u5171\u548c\u56fd",
 			"nl": "Congo [Republiek]",
 			"hr": "Kongo",
+			"tr": "Kongo",
 			"ru": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"
 		},
 		"latlng": [-1, 15],
@@ -1673,6 +1723,7 @@
 			"ja": "\u30b3\u30f3\u30b4\u6c11\u4e3b\u5171\u548c\u56fd",
 			"nl": "Congo [DRC]",
 			"hr": "Kongo, Demokratska Republika",
+			"tr": "Demokratik Kongo Cumhuriyeti",
 			"ru": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"
 		},
 		"latlng": [0, 25],
@@ -1705,6 +1756,7 @@
 			"ja": "\u30af\u30c3\u30af\u8af8\u5cf6",
 			"nl": "Cookeilanden",
 			"hr": "Cookovo Oto\u010dje",
+			"tr": "Cook Adaları",
 			"ru": "\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u041a\u0443\u043a\u0430"
 		},
 		"latlng": [-21.23333333, -159.76666666],
@@ -1737,6 +1789,7 @@
 			"ja": "\u30b3\u30b9\u30bf\u30ea\u30ab",
 			"nl": "Costa Rica",
 			"hr": "Kostarika",
+			"tr": "Kostarika",
 			"ru": "\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430"
 		},
 		"latlng": [10, -84],
@@ -1769,6 +1822,7 @@
 			"ja": "\u30af\u30ed\u30a2\u30c1\u30a2",
 			"nl": "Kroati\u00eb",
 			"hr": "Hrvatska",
+			"tr": "Hırvatistan",
 			"ru": "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f"
 		},
 		"latlng": [45.16666666, 15.5],
@@ -1801,6 +1855,7 @@
 			"ja": "\u30ad\u30e5\u30fc\u30d0",
 			"nl": "Cuba",
 			"hr": "Kuba",
+			"tr": "Küba",
 			"ru": "\u041a\u0443\u0431\u0430"
 		},
 		"latlng": [21.5, -80],
@@ -1858,6 +1913,7 @@
 			"ja": "\u30ad\u30d7\u30ed\u30b9",
 			"nl": "Cyprus",
 			"hr": "Cipar",
+			"tr": "Güney Kıbrıs",
 			"ru": "\u041a\u0438\u043f\u0440"
 		},
 		"latlng": [35, 33],
@@ -1890,6 +1946,7 @@
 			"ja": "\u30c1\u30a7\u30b3",
 			"nl": "Tsjechi\u00eb",
 			"hr": "\u010ce\u0161ka",
+			"tr": "Çek Cumhuriyeti",
 			"ru": "\u0427\u0435\u0445\u0438\u044f"
 		},
 		"latlng": [49.75, 15.5],
@@ -1922,6 +1979,7 @@
 			"ja": "\u30c7\u30f3\u30de\u30fc\u30af",
 			"nl": "Denemarken",
 			"hr": "Danska",
+			"tr": "Danimarka",
 			"ru": "\u0414\u0430\u043d\u0438\u044f"
 		},
 		"latlng": [56, 10],
@@ -1954,6 +2012,7 @@
 			"ja": "\u30b8\u30d6\u30c1",
 			"nl": "Djibouti",
 			"hr": "D\u017eibuti",
+			"tr": "Cibuti",
 			"ru": "\u0414\u0436\u0438\u0431\u0443\u0442\u0438"
 		},
 		"latlng": [11.5, 43],
@@ -1986,6 +2045,7 @@
 			"ja": "\u30c9\u30df\u30cb\u30ab\u56fd",
 			"nl": "Dominica",
 			"hr": "Dominika",
+			"tr": "Dominik",
 			"ru": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430"
 		},
 		"latlng": [15.41666666, -61.33333333],
@@ -2018,6 +2078,7 @@
 			"ja": "\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd",
 			"nl": "Dominicaanse Republiek",
 			"hr": "Dominikanska Republika",
+			"tr": "Dominik Cumhuriyeti",
 			"ru": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
 		},
 		"latlng": [19, -70.66666666],
@@ -2050,6 +2111,7 @@
 			"ja": "\u30a8\u30af\u30a2\u30c9\u30eb",
 			"nl": "Ecuador",
 			"hr": "Ekvador",
+			"tr": "Ekvator",
 			"ru": "\u042d\u043a\u0432\u0430\u0434\u043e\u0440"
 		},
 		"latlng": [-2, -77.5],
@@ -2082,6 +2144,7 @@
 			"ja": "\u30a8\u30b8\u30d7\u30c8",
 			"nl": "Egypte",
 			"hr": "Egipat",
+			"tr": "Mısır",
 			"ru": "\u0415\u0433\u0438\u043f\u0435\u0442"
 		},
 		"latlng": [27, 30],
@@ -2114,6 +2177,7 @@
 			"ja": "\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb",
 			"nl": "El Salvador",
 			"hr": "Salvador",
+			"tr": "El Salvador",
 			"ru": "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
 		},
 		"latlng": [13.83333333, -88.91666666],
@@ -2146,6 +2210,7 @@
 			"ja": "\u8d64\u9053\u30ae\u30cb\u30a2",
 			"nl": "Equatoriaal-Guinea",
 			"hr": "Ekvatorijalna Gvineja",
+			"tr": "Ekvator Ginesi",
 			"ru": "\u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f"
 		},
 		"latlng": [2, 10],
@@ -2178,6 +2243,7 @@
 			"ja": "\u30a8\u30ea\u30c8\u30ea\u30a2",
 			"nl": "Eritrea",
 			"hr": "Eritreja",
+			"tr": "Eritre",
 			"ru": "\u042d\u0440\u0438\u0442\u0440\u0435\u044f"
 		},
 		"latlng": [15, 39],
@@ -2210,6 +2276,7 @@
 			"ja": "\u30a8\u30b9\u30c8\u30cb\u30a2",
 			"nl": "Estland",
 			"hr": "Estonija",
+			"tr": "Estonya",
 			"ru": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f"
 		},
 		"latlng": [59, 26],
@@ -2242,6 +2309,7 @@
 			"ja": "\u30a8\u30c1\u30aa\u30d4\u30a2",
 			"nl": "Ethiopi\u00eb",
 			"hr": "Etiopija",
+			"tr": "Etyopya",
 			"ru": "\u042d\u0444\u0438\u043e\u043f\u0438\u044f"
 		},
 		"latlng": [8, 38],
@@ -2273,6 +2341,7 @@
 			"ja": "\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\uff08\u30de\u30eb\u30d3\u30ca\u30b9\uff09\u8af8\u5cf6",
 			"nl": "Falklandeilanden [Islas Malvinas]",
 			"hr": "Falklandski Otoci",
+			"tr": "Falkland Adaları",
 			"ru": "\u0424\u043e\u043b\u043a\u043b\u0435\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [-51.75, -59],
@@ -2304,6 +2373,7 @@
 			"ja": "\u30d5\u30a7\u30ed\u30fc\u8af8\u5cf6",
 			"nl": "Faer\u00f6er",
 			"hr": "Farski Otoci",
+			"tr": "Faroe Adaları",
 			"ru": "\u0424\u0430\u0440\u0435\u0440\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [62, -7],
@@ -2335,6 +2405,7 @@
 			"ja": "\u30d5\u30a3\u30b8\u30fc",
 			"nl": "Fiji",
 			"hr": "Fi\u0111i",
+			"tr": "Fiji",
 			"ru": "\u0424\u0438\u0434\u0436\u0438"
 		},
 		"latlng": [-18, 175],
@@ -2366,6 +2437,7 @@
 			"ja": "\u30d5\u30a3\u30f3\u30e9\u30f3\u30c9",
 			"nl": "Finland",
 			"hr": "Finska",
+			"tr": "Finlandiya",
 			"ru": "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f"
 		},
 		"latlng": [64, 26],
@@ -2397,6 +2469,7 @@
 			"ja": "\u30d5\u30e9\u30f3\u30b9",
 			"nl": "Frankrijk",
 			"hr": "Francuska",
+			"tr": "Fransa",
 			"ru": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f"
 		},
 		"latlng": [46, 2],
@@ -7747,6 +7820,7 @@
 			"it": "Zambia",
 			"ja": "\u30b6\u30f3\u30d3\u30a2",
 			"nl": "Zambia",
+			"hr": "Zambija",
 			"hr": "Zambija",
 			"ru": "\u0417\u0430\u043c\u0431\u0438\u044f"
 		},
